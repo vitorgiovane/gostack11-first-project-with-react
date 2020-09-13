@@ -1,4 +1,6 @@
 <h2 align="center">
+    <br>
+    <br>
     First project with ReactJS
     <br>
     <br>  
@@ -36,6 +38,7 @@
 This project was developed with the following technologies:
 
 - ReactJS
+- TypeScript
 - Styled Components
 - ESLint
 - EditorConfig
